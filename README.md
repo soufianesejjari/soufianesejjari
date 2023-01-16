@@ -30,7 +30,7 @@ Welcome to my profile! I am a data scientist and software developer with a passi
 
 - **Data Visualization and Processing Web Application**: A web application that allows users to visualize and analyze data collected from a Google Form questionnaire, using Python, SPSS, Talend, Streamlit, and an API
 ## Education 👯 
-- Professional License in Big Data: a technical degree program that covers topics such as data management, data analysis, and data visualization.
+- Professional Bachelor in Big Data: a technical degree program that covers topics such as data management, data analysis, and data visualization.
 
 ## Interests😄 
 In my free time, I enjoy staying up to date with the latest developments in technology, exploring new programming languages and frameworks, and participating in online communities and events. I am also interested in [other interests] and believe that a well-rounded knowledge base is crucial for success in the tech industry.
