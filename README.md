@@ -39,6 +39,7 @@ In my free time, I enjoy staying up to date with the latest developments in tech
 You can contact me through the following channels:
 
 - Email: sejjari.soufiane@gmail.com 
+- WebSite : [soufiane-s.netlify.app ](https://soufiane-s.netlify.app/)
 - LinkedIn: https://www.linkedin.com/in/soufiane-sejjari/
 - GitHub: https://github.com/soufianesejjari/
 
