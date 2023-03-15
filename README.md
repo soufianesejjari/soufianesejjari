@@ -32,6 +32,13 @@ Welcome to my profile! I am a data scientist and software developer with a passi
 ## Education 👯 
 - Professional Bachelor in Big Data: a technical degree program that covers topics such as data management, data analysis, and data visualization.
 
+## Certifications 🎓
+- Neo4j Certified Professional [neo4j](https://graphacademy.neo4j.com/u/0da0bd33-acf6-4c56-bb97-1ed7ff062b66/neo4j-certification/)
+- Neo4j Graph Data Science Certification [neo4j](https://graphacademy.neo4j.com/u/0da0bd33-acf6-4c56-bb97-1ed7ff062b66/gds-certification/)
+- Redis Certified Developer [Redis, Inc. ](https://www.credential.net/182b96b3-2cd1-44d1-a778-ae9065d2ae34)
+- Tweet Emotion Recognition with TensorFlow (Coursera)
+- Exploratory Data Analysis with Seaborn (Coursera)
+- Running Redis at Scale (Redis, Inc)
 ## Interests😄 
 In my free time, I enjoy staying up to date with the latest developments in technology, exploring new programming languages and frameworks, and participating in online communities and events. I am also interested in [other interests] and believe that a well-rounded knowledge base is crucial for success in the tech industry.
 
