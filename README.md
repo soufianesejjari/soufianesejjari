@@ -27,8 +27,8 @@ Welcome to my profile! I am a data scientist and software developer with a passi
 ## Projects ⚡ 
 - **COVID-19 Awareness and Statistics Android App**: an Android mobile app that provides real-time statistics and information about COVID-19 in Morocco, as well as a machine learning model that predicts the risk of infection. Developed using Kotlin, Android API, and machine learning algorithms in Python and Scala.
 - **Data Visualization with Power BI and ETL with Talend**: A data visualization dashboard using Power BI and the extraction, transformation, and loading (ETL) of data from an OLTP MySQL database to an OLAP MySQL data warehouse using Talend.
-
 - **Data Visualization and Processing Web Application**: A web application that allows users to visualize and analyze data collected from a Google Form questionnaire, using Python, SPSS, Talend, Streamlit, and an API
+-  **ScalaProjet JavaFX/Scala POS System**: a JavaFX/Scala based Point of Sale system that allows users to view and manage sales data in an **interactive dashboard** . The application uses a MySQL database to store and retrieve data.
 ## Education 👯 
 - Professional Bachelor in Big Data: a technical degree program that covers topics such as data management, data analysis, and data visualization.
 
