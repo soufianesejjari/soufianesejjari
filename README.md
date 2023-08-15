@@ -11,10 +11,12 @@ Welcome to my profile! I am a data scientist and software developer with a passi
 - Mobile development: Kotlin, Android API
 - Other: Git, GitHub, Linux, agile development methodologies
 ## Projects 🛠️
-- **COVID-19 Awareness and Statistics Android App**: an Android mobile app that provides real-time statistics and information about COVID-19 in Morocco, as well as a machine learning model that predicts the risk of infection. Developed using Kotlin, Android API, and machine learning algorithms in Python and Scala.
-- **Data Visualization with Power BI and ETL with Talend**: A data visualization dashboard using Power BI and the extraction, transformation, and loading (ETL) of data from an OLTP MySQL database to an OLAP MySQL data warehouse using Talend.
-- **Data Visualization and Processing Web Application**: A web application that allows users to visualize and analyze data collected from a Google Form questionnaire, using Python, SPSS, Talend, Streamlit, and an API
--  **ScalaProjet JavaFX/Scala POS System**: a JavaFX/Scala based Point of Sale system that allows users to view and manage sales data in an **interactive dashboard** . The application uses a MySQL database to store and retrieve data.
+- [**COVID-19 Awareness and Statistics Android App**](https://github.com/soufianesejjari/COVID-19-Awareness-and-Statistics-Mobile-App-Real-time-Information-and-Infection-Risk-Prediction) : an Android mobile app that provides real-time statistics and information about COVID-19 in Morocco, as well as a machine learning model that predicts the risk of infection. Developed using Kotlin, Android API, and machine learning algorithms in Python and Scala.
+- [ **Data Visualization with Power BI and ETL with Talend** ](https://github.com/soufianesejjari/Visualizing-MySQL-OLAP-Database-with-PowerBI-A-Case-of-ETL-driven-Data-Exploration): A data visualization dashboard using Power BI and the extraction, transformation, and loading (ETL) of data from an OLTP MySQL database to an OLAP MySQL data warehouse using Talend.
+- [ **Data Visualization and Processing Web Application** ](https://github.com/soufianesejjari/Streamlining-Data-Collection-and-Analysis-Google-Forms-API-and-Python): A web application that allows users to visualize and analyze data collected from a Google Form questionnaire, using Python, SPSS, Talend, Streamlit, and an API
+- [ **ScalaProjet JavaFX/Scala POS System** ](https://github.com/soufianesejjari/JavaFX-Scala-POS-System-with-dashboard): a JavaFX/Scala based Point of Sale system that allows users to view and manage sales data in an **interactive dashboard** . The application uses a MySQL database to store and retrieve data.
+- [ **API de visites (Visits API)** ](https://github.com/soufianesejjari/Api_python_for_visualisaion): A service that retrieves data from a MySQL database and performs data processing to generate dynamic graphs. The API also incorporates caching mechanisms for performance optimization and reduced database queries.
+-[ **Data Analysis on LinkedIn Profiles of ENSIAS Students** ](https://github.com/soufianesejjari/Data-scraping-and-Analysis-LinkedIn-Profiles-Students): This project involves web scraping LinkedIn profile information from 58 students of ENSIAS. Collected data is stored in a JSON file and fed into a database. Using Python, the data is analyzed to uncover trends and insights about students' skills and experiences, aiming to improve educational programs and career opportunities.
 ## Education 📚
 - Professional Bachelor in Big Data: a technical degree program that covers topics such as data management, data analysis, and data visualization.
 
@@ -22,6 +24,7 @@ Welcome to my profile! I am a data scientist and software developer with a passi
 - Neo4j Certified Professional [neo4j](https://graphacademy.neo4j.com/u/0da0bd33-acf6-4c56-bb97-1ed7ff062b66/neo4j-certification/)
 - Neo4j Graph Data Science Certification [neo4j](https://graphacademy.neo4j.com/u/0da0bd33-acf6-4c56-bb97-1ed7ff062b66/gds-certification/)
 - Redis Certified Developer [Redis, Inc. ](https://www.credential.net/182b96b3-2cd1-44d1-a778-ae9065d2ae34)
+- Google Data Analytics Capstone: Complete a Case Study [Coursera  ](https://www.coursera.org/account/accomplishments/certificate/4SPS9UZFHDVK)
 - Tweet Emotion Recognition with TensorFlow (Coursera)
 - Exploratory Data Analysis with Seaborn (Coursera)
 - Running Redis at Scale (Redis, Inc)
