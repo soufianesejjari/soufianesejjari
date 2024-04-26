@@ -2,7 +2,7 @@
 
 
 ## Overview 🔭
-Welcome to my profile! I am a data scientist and software developer with a passion for using technology to solve problems and create value. I have completed various projects in data analysis, web development, and mobile development, including my final year project at DUT, which involved creating an Android mobile app for COVID-19 awareness and statistics in Morocco. I am always looking for new opportunities to learn and grow as a developer.
+Welcome to my profile! I'm a dedicated data scientist and software developer currently pursuing my Master's degree. With a strong passion for leveraging technology to solve problems and drive innovation, I've undertaken diverse projects spanning data analysis, web development, and mobile app development.
 
 ##  Skills and Technologies 🛠️
 - Data analysis: Python, SQL, machine learning algorithms, data visualization tools (e.g. Matplotlib, Seaborn, Plotly)
@@ -19,8 +19,9 @@ Welcome to my profile! I am a data scientist and software developer with a passi
 - [ **API de visites (Visits API)** ](https://github.com/soufianesejjari/Api_python_for_visualisaion): A service that retrieves data from a MySQL database and performs data processing to generate dynamic graphs. The API also incorporates caching mechanisms for performance optimization and reduced database queries.
 - [ **Data Analysis on LinkedIn Profiles of ENSIAS Students** ](https://github.com/soufianesejjari/Data-scraping-and-Analysis-LinkedIn-Profiles-Students): In this project, I conducted data analysis on LinkedIn profiles of ENSIAS students. By utilizing web scraping, JSON, Python, and MongoDB, I uncovered trends in skills and experiences to enhance education and career opportunities for students.
 ## Education 📚
-- Professional Bachelor in Big Data: a technical degree program that covers topics such as data management, data analysis, and data visualization.
-
+- First Year Master's Student in Computer Science and Data Science
+- Professional Bachelor in Big Data: A technical degree program covering data management, analysis, and visualization.
+- High School Diploma in Business Intelligence (Diplôme Universitaire de Technologie Bac+2)
 ## Certifications 🎓
 - Neo4j Certified Professional [neo4j](https://graphacademy.neo4j.com/u/0da0bd33-acf6-4c56-bb97-1ed7ff062b66/neo4j-certification/)
 - Neo4j Graph Data Science Certification [neo4j](https://graphacademy.neo4j.com/u/0da0bd33-acf6-4c56-bb97-1ed7ff062b66/gds-certification/)
