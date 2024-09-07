@@ -49,10 +49,10 @@ Welcome to my profile! I am a passionate data scientist and software developer c
 - **High School Diploma in Business Intelligence (DUT Bac+2)** | Focus on data technologies and methodologies
 
 ## **Certifications** 🎓
+- **Google Data Analytics Professional Certificate** | [Certification Link](https://www.coursera.org/account/accomplishments/specialization/certificate/G8D9TJ3GU46E)
 - **Neo4j Certified Professional** | [Certification Link](https://graphacademy.neo4j.com/u/0da0bd33-acf6-4c56-bb97-1ed7ff062b66/neo4j-certification/)
 - **Neo4j Graph Data Science Certification** | [Certification Link](https://graphacademy.neo4j.com/u/0da0bd33-acf6-4c56-bb97-1ed7ff062b66/gds-certification/)
 - **Redis Certified Developer** | [Certification Link](https://www.credential.net/182b96b3-2cd1-44d1-a778-ae9065d2ae34)
-- **Google Data Analytics Capstone** | [Certification Link](https://www.coursera.org/account/accomplishments/certificate/4SPS9UZFHDVK)
 - **Tweet Emotion Recognition with TensorFlow** (Coursera)
 - **Exploratory Data Analysis with Seaborn** (Coursera)
 - **Running Redis at Scale** (Redis, Inc)
